@@ -1,0 +1,54 @@
+[submodule "3rd/glew"]
+	path = 3rd/glew
+	url = https://github.com/nigels-com/glew.git
+[submodule "3rd/glfw"]
+	path = 3rd/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "3rd/openal-soft"]
+	path = 3rd/openal-soft
+	url = https://github.com/kcat/openal-soft.git
+[submodule "3rd/libjpeg-turbo"]
+	path = 3rd/libjpeg-turbo
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "3rd/zlib"]
+	path = 3rd/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "3rd/libpng"]
+	path = 3rd/libpng
+	url = git://git.code.sf.net/p/libpng/code
+[submodule "3rd/freetype2"]
+	path = 3rd/freetype2
+	url = git://git.sv.nongnu.org/freetype/freetype2.git
+[submodule "3rd/vorbis"]
+	path = 3rd/vorbis
+	url = https://git.xiph.org/vorbis.git
+[submodule "3rd/ogg"]
+	path = 3rd/ogg
+	url = https://git.xiph.org/ogg.git
+[submodule "3rd/curl"]
+	path = 3rd/curl
+	url = https://github.com/curl/curl.git
+[submodule "3rd/openssl"]
+	path = 3rd/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "3rd/sqlite"]
+	path = 3rd/sqlite
+	url = https://github.com/mackyle/sqlite.git
+[submodule "3rd/eigen"]
+	path = 3rd/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "3rd/rapidjson"]
+	path = 3rd/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "3rd/oniguruma"]
+	path = 3rd/oniguruma
+	url = https://github.com/kkos/oniguruma.git
+[submodule "3rd/boost"]
+	path = 3rd/boost
+	url = https://github.com/boostorg/boost.git
+[submodule "3rd/ffmpeg"]
+	path = 3rd/ffmpeg
+	url = https://git.ffmpeg.org/ffmpeg.git
+[submodule "3rd/v8"]
+	path = 3rd/v8
+	url = https://github.com/v8/v8.git
