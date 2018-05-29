@@ -8,3 +8,5 @@
 *.exe
 *.app
 build/*
+.gclient
+.gclient_entries
